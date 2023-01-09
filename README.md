@@ -4,5 +4,5 @@ This script input the data which is downloaded to the computer as a 'CSV' file, 
 
 <p float="left">
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="80" >
-<img src="https://user-images.githubusercontent.com/111297694/206740073-84cdc734-9b6b-4445-946e-e96bfd4a9181.png" width="80" >
+<img src="https://user-images.githubusercontent.com/111297694/206740319-155f8a6c-cfb1-446e-b63a-53aa81fd3617.png" width="80" >
 </p>
