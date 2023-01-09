@@ -1,5 +1,6 @@
 # Selenium-CSV to Form
 This script input the data which is downloaded to the computer as a 'CSV' file, and then performs a filtering of it, and uploads it to a data form.
+I made this script for my workplace.
 
 
 <p float="left">
