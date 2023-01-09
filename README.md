@@ -7,3 +7,7 @@ I made this script for my workplace.
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="80" >
 <img src="https://user-images.githubusercontent.com/111297694/206740319-155f8a6c-cfb1-446e-b63a-53aa81fd3617.png" width="80" >
 </p>
+
+----------
+
+<img src="https://raw.githubusercontent.com/idovad/Selenium-CSVtoForm/main/Preview.jpg" width="300" >
