@@ -201,14 +201,9 @@ for i in range(len(SensitiveInformation.TLDarr)):
 
 print(resultsDict[SensitiveInformation.TLDarr[0]])
 # Print results         
-
-
-    
-
-
 # ---------------------------------------
 
-# # Navigate to FreeNom API
+# # Navigate to F API
 browser.get(SensitiveInformation.navDict['F'])
 str=''
 #Now we are going to enter all of the information we have
